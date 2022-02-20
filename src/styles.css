@@ -1,0 +1,129 @@
+/* ------ FONT ------ */
+* {
+  font-family: "Roboto", sans-serif;
+}
+/* ------ FONT ------ */
+
+/* ------ HEADER ------ */
+
+header {
+  background: linear-gradient(#000000ee, #222222bb);
+}
+
+.logo {
+  height: 50px;
+}
+
+.nav-link {
+  font-weight: bold;
+  font-size: 1.1rem;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+/* ------ HEADER ------ */
+
+/* ------ I AM ------ */
+
+.i-am {
+  height: 100vh;
+  position: relative;
+  color: #ffffff;
+  background-image: url(assets/images/i-am-bg.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.i-am-name {
+  color: #ffffff;
+  font-weight: 600;
+  font-size: 4rem;
+}
+
+.i-am-title {
+  color: #ffffff;
+  font-weight: 600;
+  font-size: 2rem;
+}
+
+/* ------ I AM ------ */
+
+/* ------ ABOUT ME ------ */
+
+.title-bold {
+  color: #000000cc;
+  font-weight: bold;
+}
+
+.skill-icons {
+  max-width: 120px;
+}
+
+/* ------ ABOUT ME ------ */
+
+/* ------ EDUCATION ------ */
+
+.education-img-ap {
+  max-height: 110px;
+}
+
+/* ------ EDUCATION ------ */
+
+/* ------ CONTACT FORM ------ */
+
+.contact-form {
+  position: relative;
+  color: #ffffff;
+  background-image: url(assets/images/contact-bg.png);
+  background-size: cover;
+  background-position: center;
+}
+
+.btn-primary {
+  background-color: #666666;
+  border: none;
+}
+
+.btn:hover {
+  background-color: #666666;
+  transition: none;
+}
+
+.form-label,
+.form-control {
+  font-size: 20px;
+}
+
+.contact-icon {
+  max-width: 55px;
+}
+
+.contact-icon-svg {
+  fill: #ffffff;
+}
+
+.contact-a {
+  font-size: 20px;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.contact-a:hover {
+  color: #ffffff;
+  transition: none;
+}
+
+/* ------ CONTACT FORM ------ */
+
+/* ------ FOOTER ------ */
+
+.footer {
+  background-color: #000000;
+}
+
+.footer-text {
+  color: #ffffff;
+  font-size: 0.9rem;
+}
+
+/* ------ FOOTER ------ */
